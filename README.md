@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JakeSparrow1
-- 👀 I’m interested in ...
+- 👀 I’m interested in PROGRAMMING
 - 🌱 I’m currently learning Java script and F#
 
 <!---
